@@ -1,6 +1,7 @@
 ![logo](https://github.com/SanjidaTamanna/SanjidaTamanna/blob/main/Sanjida%20github.gif)
 <h1 align="center">Hi 👋, I'm Sanjida Tamanna</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
+<img align="right" alt="Coding" width="350" src="https://github.com/SanjidaTamanna/SanjidaTamanna/blob/main/sanjida.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjidatamanna&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidatamanna" /> </p>
 
