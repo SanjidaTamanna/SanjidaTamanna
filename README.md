@@ -1,3 +1,4 @@
+![logo](https://github.com/SanjidaTamanna/SanjidaTamanna/blob/main/Sanjida%20github.gif)
 <h1 align="center">Hi 👋, I'm Sanjida Tamanna</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
